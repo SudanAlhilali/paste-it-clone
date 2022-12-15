@@ -1,4 +1,4 @@
-# Paste IT
+# Paste It
 
 This is an application made for people to upload and share various snippets of text.
 
